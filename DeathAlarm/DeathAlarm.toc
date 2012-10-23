@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: Death Alarm
+## Notes: Sends configurable alerts to group when player is below given health points threshold.
+## Author: Siarkowy
+## Version: 1.0
+## SavedVariablesPerCharacter: DeathAlarmDB
+
+core.lua
+slash.lua
